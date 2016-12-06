@@ -1,8 +1,6 @@
-# Vivaldi extensions
-### Few extension I made for Vivaldi browser
+# Vivaldi browser extensions
 
 NOTE:
-
 1. Vivaldi is in active developement, so things might break or not work as expected after the next minor update. All are working fine now in Vivaldi 1.5.658.56.
 2. Vivaldi renders extension popups weird way, so some css tricks were used to keep all the html inside the popup.
 3. The todolist should work in chrome also, but there you can see extra space on the right and bottom because of no. 2.
