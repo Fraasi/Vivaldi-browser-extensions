@@ -12,7 +12,7 @@ NOTE:
 
 ### localStorage toDo.list
 
-Autofocus doesn't work, when first opening popup. After that it works fine. Couldn't find a solution to this annoying little problem.
+Autofocus doesn't work when first opening popup. After that it works fine. Couldn't find a solution to this annoying little problem.
 
 Click note to mark it done, again to undone.
 Doubleclick to edit note. Click anywhere outside the edit box to close it and save the edit.
