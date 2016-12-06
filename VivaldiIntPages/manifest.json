@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+
+  "name": "Vivaldi internal urls",
+  "description": "Links to Vivaldi's internal urls.",
+  "version": "0.7",
+  "author": "doofassi@gmail.com",
+  
+  "browser_action": {
+    "default_icon": "inturls_logo16.png",
+    "default_popup": "intpages.html",
+	"default_title": "Vivaldi internal urls"
+  },
+   "icons": { "16": "inturls_logo16.png",
+           "48": "inturls_logo48.png"
+  }  
+}
