@@ -1,4 +1,4 @@
-# Vivaldi browser extensions
+## Vivaldi browser extensions
 
 NOTE:
 
@@ -13,6 +13,7 @@ NOTE:
 ### localStorage toDo.list
 
 Autofocus doesn't work, when first opening popup. After that it works fine. Couldn't find a solution to this annoying little problem.
+
 Click note to mark it done, again to undone.
 Doubleclick to edit note. Click anywhere outside the edit box to close it and save the edit.
 
@@ -37,7 +38,7 @@ Because of vivaldis security(?), settings page doesn't show up without manually 
 ![vivaldi_int_pic.png](pics/vivaldi_int_pic.png)
 
 
-### WikiVisits
+### WikiCounter
 
 Counts your visits to wikipedia. Doesn't care if you actually read the page or not.
 
