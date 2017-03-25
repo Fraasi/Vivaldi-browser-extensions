@@ -3,7 +3,7 @@
 
   "name": "localStorage toDo.list",
   "description": "Simple yet powerful todo list extensionextraordinaire.",
-  "version": "0.9",
+  "version": "0.9.1",
   "author": "doofassi@gmail.com",
 
   "browser_action": {

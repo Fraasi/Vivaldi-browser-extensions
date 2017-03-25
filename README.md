@@ -3,16 +3,11 @@
 NOTE:
 
 1. Vivaldi is in active developement, so things might break or not work as expected after the next minor update. All are working fine now in Vivaldi 1.5.658.56.
-2. Vivaldi renders extension popups weird way, so some css tricks were used to keep all the html inside the popup.
-3. The todolist should work in chrome also, but there you can see extra space on the right and bottom because of no. 2.
-4. If not showing like in the pictures, it should be easily fixable by tweeking the width and height properties in css to suit your particular browser needs.
-5. To install just download packaged extension in the crx folder, and drag the file to your extensions page. Or download the code folder you want and upload it to browser via load unpacked extension button in developer mode.
+2. To install just download packaged extension in the crx folder, and drag the file to your extensions page. Or download the code folder you want and upload it to browser via load unpacked extension button in developer mode.
 
 
 
 ### localStorage toDo.list
-
-Autofocus doesn't work when first opening popup. After that it works fine. Couldn't find a solution to this annoying little problem.
 
 Click note to mark it done, again to undone.
 Doubleclick to edit note. Click anywhere outside the edit box to close it and save the edit.

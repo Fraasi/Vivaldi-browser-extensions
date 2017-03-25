@@ -3,7 +3,7 @@
 
   "name": "Vivaldi internal urls",
   "description": "Links to Vivaldi's internal urls.",
-  "version": "0.7",
+  "version": "0.8",
   "author": "doofassi@gmail.com",
   
   "browser_action": {

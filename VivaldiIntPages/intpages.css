@@ -1,6 +1,5 @@
 html {
 	width: 130px;
-	height: 360px;
 }
 body {	
 	background-color: #525252;
@@ -11,7 +10,6 @@ div {
 	border: 4px solid #1B1C1F;
 	background-color: #26272A;
 	text-align:center;
-	width: 87%;
 }
 hr {
 	border: 0px;
