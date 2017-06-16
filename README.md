@@ -30,7 +30,7 @@ If you're the kind of person who likes to visit there, here it is again recreate
 Delete annoying dom elements with one click.  
 Click icon to activate, hover over any DOM element and left click to remove it from page, right click anywhere inside the window to disable.
 
-![domdelete48.png](domdelete/domdelete48.png)
+![domdelete48.png](DomDelete/domdelete48.png)
 
 ### WikiCounter
 
