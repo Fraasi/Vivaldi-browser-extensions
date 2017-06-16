@@ -2,9 +2,8 @@
 
 NOTE:
 
-1. Vivaldi is in active developement, so things might break or not work as expected after the next minor update. All are working fine now in Vivaldi 1.5.658.56.
+1. Vivaldi is in active developement, so things might break or not work as expected after the next minor update. All are working fine now in Vivaldi 1.9.818.50.
 2. To install just download packaged extension in the crx folder, and drag the file to your extensions page. Or download the code folder you want and upload it to browser via load unpacked extension button in developer mode.
-
 
 
 ### localStorage toDo.list
@@ -22,16 +21,16 @@ If you clear your localstorage, you lose your notes. Otherwise saves notes to al
 ### Vivaldi internal urls
 
 In opera 12 There was an extension to quickly jump to internal pages.
-If you're the kind of person who likes to visit there, here it is again recreated for Vivaldi. Easily modifiable if you want to change some urls. There's also a link to all internal urls.
-
-Couldn't get the bookmarks link to work without javascript, which is a bummer 'cos I wanted to do this purely in html and css. 
-
-NOTE:
-
-Because of vivaldis security(?), settings page doesn't show up without manually entering the url. So after the link opens and white empty page is there, click on the address bar and press enter to show the settings page.
+If you're the kind of person who likes to visit there, here it is again recreated for Vivaldi.
 
 ![vivaldi_int_pic.png](pics/vivaldi_int_pic.png)
 
+### DOM delete
+
+Delete annoying dom elements with one click.  
+Click icon to activate, hover over any DOM element and left click to remove it from page, right click anywhere inside the window to disable.
+
+![domdelete48.png](domdelete/domdelete48.png)
 
 ### WikiCounter
 

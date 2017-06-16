@@ -1,0 +1,26 @@
+{
+	"manifest_version": 2,
+	"name": "Dom Delete",
+	"description": "Delete DOM elements. Left click icon to activate, right click anywhere to disable.",
+	"version": "0.1",
+	"author": "doofassi@gmail.com",
+	"homepage_url": "https://github.com/Fraasi/Vivaldi-browser-extensions",
+
+	"browser_action": {
+		"default_icon": "domdelete48.png",
+		"default_title": "DOM Delete"
+	},
+
+	"icons": {
+		"48": "domdelete48.png"
+	},
+
+	"permissions": [
+		"activeTab"
+	],
+
+	"background": {
+		"scripts": ["background.js"],
+		"persistent": false
+	}
+}
