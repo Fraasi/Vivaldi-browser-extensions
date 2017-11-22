@@ -3,8 +3,8 @@
 
   "name": "Vivaldi internal urls",
   "description": "Links to Vivaldi's internal urls.",
-  "version": "0.8",
-  "author": "doofassi@gmail.com",
+  "version": "0.9",
+  "author": "fraasi.gh@gmail.com",
   "homepage_url": "https://github.com/Fraasi/Vivaldi-browser-extensions",
   
   "browser_action": {

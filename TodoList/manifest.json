@@ -4,7 +4,7 @@
   "name": "localStorage toDo.list",
   "description": "Simple yet powerful todo list extensionextraordinaire.",
   "version": "0.9.1",
-  "author": "doofassi@gmail.com",
+  "author": "fraasi.gh@gmail.com",
   "homepage_url": "https://github.com/Fraasi/Vivaldi-browser-extensions",
 
   "browser_action": {

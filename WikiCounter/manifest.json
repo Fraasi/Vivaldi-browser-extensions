@@ -4,7 +4,7 @@
   "name": "Wikipedia hit counter",
   "description": "Counts your visits to wikipedia.",
   "version": "0.6",
-    "author": "doofassi@gmail.com",
+    "author": "fraasi.gh@gmail.com",
 
   "browser_action": {
     "default_icon": "wiki16.png",
