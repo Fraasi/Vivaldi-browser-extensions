@@ -1,0 +1,24 @@
+{
+  "manifest_version": 2,
+
+  "name": "Storage Info",
+  "description": "Storage and cookie viewer.",
+  "version": "0.1.0",
+  "author": "fraasi.gh@gmail.com",
+  "homepage_url": "https://github.com/Fraasi/Vivaldi-browser-extensions",
+
+  "browser_action": {
+    "default_icon": "storageInfo16.png",
+    "default_popup": "storageInfo.html",
+	  "default_title": "Storage Info"
+  },
+  "icons": { "16": "storageInfo16.png",
+           "48": "storageInfo48.png"
+  },
+  "permissions": [
+    "activeTab",
+    "cookies",
+    "http://*/*",
+    "https://*/*"
+  ]
+}

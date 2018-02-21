@@ -35,6 +35,12 @@ Click icon to activate, hover over any DOM element and left click to remove it f
 
 ![domdelete48.png](DomDelete/domdelete48.png)
 
+### Storage info
+
+Get localStorage, sessionStorage and cookie info in one click.
+
+![storageinfo.png](pics/storageInfo_pic.png)
+
 ### WikiCounter
 
 Counts your visits to wikipedia. Doesn't care if you actually read the page or not.
