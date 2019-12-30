@@ -1,21 +1,20 @@
 {
   "manifest_version": 2,
-
   "name": "localStorage toDo.list",
   "description": "Simple yet powerful todo list extensionextraordinaire.",
-  "version": "0.9.1",
+  "version": "1.0.0",
   "author": "fraasi.gh@gmail.com",
   "homepage_url": "https://github.com/Fraasi/Vivaldi-browser-extensions",
-
   "browser_action": {
     "default_icon": "todoIcon16.png",
     "default_popup": "todo.html",
-	"default_title": "Todo list"
+    "default_title": "Todo list"
   },
-  "icons": { "16": "todoIcon16.png",
-           "48": "todoIcon48.png"
+  "icons": {
+    "16": "todoIcon16.png",
+    "48": "todoIcon48.png"
   },
   "permissions": [
-	"storage"
+    "storage"
   ]
 }

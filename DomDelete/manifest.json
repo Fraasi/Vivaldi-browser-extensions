@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	"name": "Dom Delete",
 	"description": "Delete DOM elements. Left click icon to activate, right click anywhere in web page to disable.",
-	"version": "0.5",
+	"version": "1.0.0",
 	"author": "fraasi.gh@gmail.com",
 	"homepage_url": "https://github.com/Fraasi/Vivaldi-browser-extensions",
 

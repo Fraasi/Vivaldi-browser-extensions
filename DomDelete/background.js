@@ -1,6 +1,6 @@
 
 chrome.browserAction.onClicked.addListener(function(tab) {
-	chrome.tabs.executeScript({ file: 'content.js' });
+	chrome.tabs.executeScript({ file: 'dom-delete.js' });
 });
 
 chrome.runtime.onMessage.addListener(function(msg) {
