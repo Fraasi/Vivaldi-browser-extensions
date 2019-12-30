@@ -3,6 +3,7 @@
 NOTE:
 
 1. Vivaldi is in active developement, so things might break or not work as expected after the next minor update. All are working fine now in Vivaldi 1.9.818.50.
+2.10.1745.21
 2. To install just download packaged extension in the crx folder, and drag the file to your extensions page. Or download the code folder you want and upload it to browser via load unpacked extension button in developer mode.
 3. As Vivaldi is chrome based, all of these should work also in chrome browser - except internal urls, and that is easily modifiable to chrome.
 
@@ -40,16 +41,3 @@ Click icon to activate, hover over any DOM element and left click to remove it f
 Get localStorage, sessionStorage and cookie info in one click.
 
 ![storageinfo.png](pics/storageInfo_pic.png)
-
-### WikiCounter
-
-Counts your visits to wikipedia. Doesn't care if you actually read the page or not.
-
-Sometimes counts two in one which is great to get your numbers up. Unless it's your first visit and it skips the first one not putting a date to 'since'. 
-And sometimes after a restart it doesn't start counting at all, unless you open the popup at least once and stare at it for a quick second.
-
-NOTE:
-
-For the life of me, I couldn't get confirm box or dialog to work in an extension, so there is no warning or cancel in the reset button!
-
-![wikivisits_pic.png](pics/wikivisits_pic.png)
