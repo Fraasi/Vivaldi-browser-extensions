@@ -2,8 +2,7 @@
 
 NOTE:
 
-1. Vivaldi is in active developement, so things might break or not work as expected after the next minor update. All are working fine now in Vivaldi 1.9.818.50.
-2.10.1745.21
+1. Vivaldi is in active developement, so things might break or not work as expected after the next minor update. All are working fine now in Vivaldi 2.10.1745.21.
 2. To install just download packaged extension in the crx folder, and drag the file to your extensions page. Or download the code folder you want and upload it to browser via load unpacked extension button in developer mode.
 3. As Vivaldi is chromium based, all of these should work also in chrome browser - except internal urls, and that is easily modifiable to chrome.
 
